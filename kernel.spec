@@ -871,7 +871,7 @@ Patch531: 0001-mm-Avoid-creating-virtual-address-aliases-in-brk-mma.patch
 Patch532: 0001-include-uapi-Fix-invalid-use-of-BITS_PER_LONG-in-__s.patch
 
 # Linux 5.5+ Broadcom HCI Bluetooth detection temporary fix
-Patch601: 2001-Revert-serdev-Add-ACPI-devices-by-ResourceSource-fie.patch
+# Patch601: 2001-Revert-serdev-Add-ACPI-devices-by-ResourceSource-fie.patch
 
   # Apple SMC ACPI support
 Patch602:  3001-applesmc-convert-static-structures-to-drvdata.patch
